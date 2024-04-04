@@ -33,10 +33,10 @@ const Landing = () => (
         <h2 style={{ color: 'white' }}>...then look for recopies</h2>
         <Row md={1} lg={2}>
           <Col xs={6}>
-            <Image src="/images/add-project-page.png" width={500} />
+            <Image src="/images/landing-recepie-1.png" width={500} />
           </Col>
           <Col xs={6}>
-            <Image src="/images/projects-page.png" width={500} />
+            <Image src="/images/landing-recepie-2.png" width={500} />
           </Col>
         </Row>
       </Container>
